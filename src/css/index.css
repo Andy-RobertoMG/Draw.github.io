@@ -1,0 +1,19 @@
+#rayado{
+    border-color:brown;
+    border-style:solid;
+}
+
+body {
+    margin: 0px;
+    color: aqua;
+    background-color: black;
+}
+/* html,body {overflow:hidden;} */
+#controls
+{
+  bottom:auto;
+  left: 0;
+  color: aqua;
+  position: absolute;
+  width: 100%;
+}
